@@ -9,7 +9,7 @@ import women from '../../assets/women (2).jpg';
 import men from '../../assets/men.jpg';
 const Over = () => {
     return (
-        <div className="w-96 bg-gray-100 ml-12 card-section">
+        <div className="w-96 bg-gray-100 ml-16 card-section">
                 <div className="flex justify-between bg-gray-100 h-16 items-center pl-2 pr-2 ">
                     <div className='flex gap-2'>
                         <button className="progress-btn w-6 h-4 mt-1 "></button>
